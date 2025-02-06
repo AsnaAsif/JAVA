@@ -1,6 +1,6 @@
 package inheritance;
 
-public class Animal {
+public class Animal {//multilevel inheritance
 	String name="kittu";
 	public void animalname()
 	{

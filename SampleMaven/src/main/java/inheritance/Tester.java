@@ -1,6 +1,6 @@
 package inheritance;
 
-public class Tester extends Employ {
+public class Tester extends Employ {//multilevel inheritance
 	String testername="arun";
 	public void Test()
 	{

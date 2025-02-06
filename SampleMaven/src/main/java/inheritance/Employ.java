@@ -1,6 +1,6 @@
 package inheritance;
 
-public class Employ {
+public class Employ {//multilevel inheritance
 	int staffnumber=123;
 	public void Employnumber()
 	{

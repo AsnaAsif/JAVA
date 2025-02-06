@@ -1,21 +1,16 @@
 package inheritance;
 
-public class HraPf extends Salary{
+public class HraPf extends Salaryconsole{
 	int hra;
 	int pf;
-	public float hraPay()
+	public int hraPay()
 	{
 		hra=(basicpay*5)/100;
 		return hra;
 	}
-	public float pfPay()
+	public int pfpay()
 	{
-		pf=(basicpay*20)/100;
-		return pf;
+	pf=(20*basicpay)/100;
+	return pf;
 	}
-		
 }
-
-	
-	
-

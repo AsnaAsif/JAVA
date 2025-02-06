@@ -1,6 +1,6 @@
 package inheritance;
 
-public class Puppy extends Dog{
+public class Puppy extends Dog{//mulitilevel inheritance
 	String colour="brown";
 	public void puppycolour()
 	{

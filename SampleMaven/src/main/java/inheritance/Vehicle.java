@@ -1,6 +1,6 @@
 package inheritance;
 
-public class Vehicle {
+public class Vehicle {//single inheritance
 int speed=2000;
 public void run()
 {

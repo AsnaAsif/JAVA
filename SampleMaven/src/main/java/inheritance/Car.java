@@ -1,6 +1,6 @@
 package inheritance;
 
-public class Car extends Vehicle{
+public class Car extends Vehicle{//single inheritance
 	int Milage=7000;
 	public void honda()
 	{
